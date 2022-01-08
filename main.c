@@ -1,15 +1,19 @@
 /*
- * Purpose:			 To create a playable 'Simon Game' on the DAQ simulator.
+ * File:    main.c
+ * Purpose: To create a playable 'Simon Game' on the DAQ simulator
+ * Date:    December 2020
  */
 
 #define _CRT_SECURE_NO_WARNINGS
 
+/* Preprocessor Directives */
 #include <stdio.h>
 #include <stdlib.h>
 #include <Windows.h>
 #include <DAQlib.h>
 #include <time.h>
 
+/* Definitions */
 /* Status Indicators */
 #define TRUE 1
 #define FALSE 0
