@@ -1,4 +1,4 @@
-# Simon-Game
+# Simon Game
 A variation of the classic Simon Game, implemented in C on a DAQ module simulator
 
 # How-to-Play
